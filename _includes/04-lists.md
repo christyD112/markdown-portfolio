@@ -1,3 +1,3 @@
-*coke
-*fanta
-*sprite
+* coke
+* fanta
+* sprite
